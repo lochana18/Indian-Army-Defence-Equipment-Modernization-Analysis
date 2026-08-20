@@ -38,11 +38,10 @@ The main aim of this project is to understand the data easily through visualizat
 ## 📂 Project Files
 
 ```text
-Indian-Army-Defence-Equipment-Modernization-Analysis
-│
-├── project.py
-├── Indian Army Defence Equipment & Modernization Analysis.xlsx
-└── README.md
+📁 indian-army-defence-equipment-modernization-analysis
+   ├── project.py
+   ├── requirements.txt
+   └── indian_army_equipment.xlsx
 ```
 
 ## ▶️ How to Run the Project
